@@ -1,0 +1,53 @@
+2019-08-14T13:02:10+00:00 CRITICAL Uncaught Exception: Template file is missing for `homey-section-title` shortcode. Make sure you have `wp-content/themes/your_theme/vc_templates/homey-section-title.php` file in your theme folder. in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php:270
+Stack trace:
+#0 /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(243): WPBakeryShortCode->loadTemplate(Array, '')
+#1 /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php(360): WPBakeryShortCode->content(Array, '')
+#2 /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/js_composer/include/helpers/helpers.php(1316): WPBakeryShortCode->output(Array, '')
+#3 /home/valisoa/Hobby-mood/site/public_html/wp-includes/shortcodes.php(325): vc_do_shortcode(Array, '', 'homey-section-t...')
+#4 [internal function]: do_shortcod in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-wpbakeryshortcode.php on line 270
+
+2019-08-14T14:13:30+00:00 CRITICAL Uncaught Error: Call to undefined function homey_get_localization() in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php:106
+Stack trace:
+#0 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(288): Homey_Post_Type_Invoice::homey_invoice_populate_columns('order_number')
+#1 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/valisoa/Hobby-mood/site/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1244): do_action('manage_posts_cu...', 'order_number', 2523)
+#4 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'order_number')
+#5 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1290): WP_List_Table->single_row_columns(Object(WP in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php on line 106
+
+2019-08-14T14:13:56+00:00 CRITICAL Uncaught Error: Call to undefined function homey_get_localization() in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php:106
+Stack trace:
+#0 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(288): Homey_Post_Type_Invoice::homey_invoice_populate_columns('order_number')
+#1 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/valisoa/Hobby-mood/site/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1244): do_action('manage_posts_cu...', 'order_number', 2523)
+#4 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'order_number')
+#5 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1290): WP_List_Table->single_row_columns(Object(WP in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php on line 106
+
+2019-08-14T14:14:25+00:00 CRITICAL Uncaught Error: Call to undefined function homey_get_localization() in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php:106
+Stack trace:
+#0 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(288): Homey_Post_Type_Invoice::homey_invoice_populate_columns('order_number')
+#1 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/valisoa/Hobby-mood/site/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1244): do_action('manage_posts_cu...', 'order_number', 2523)
+#4 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'order_number')
+#5 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1290): WP_List_Table->single_row_columns(Object(WP in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php on line 106
+
+2019-08-14T14:14:29+00:00 CRITICAL Uncaught Error: Call to undefined function homey_get_localization() in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php:106
+Stack trace:
+#0 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(288): Homey_Post_Type_Invoice::homey_invoice_populate_columns('order_number')
+#1 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/valisoa/Hobby-mood/site/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1244): do_action('manage_posts_cu...', 'order_number', 2523)
+#4 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'order_number')
+#5 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1290): WP_List_Table->single_row_columns(Object(WP in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php on line 106
+
+2019-08-14T14:14:44+00:00 CRITICAL Uncaught Error: Call to undefined function homey_get_localization() in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php:106
+Stack trace:
+#0 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(288): Homey_Post_Type_Invoice::homey_invoice_populate_columns('order_number')
+#1 /home/valisoa/Hobby-mood/site/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/valisoa/Hobby-mood/site/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1244): do_action('manage_posts_cu...', 'order_number', 2523)
+#4 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'order_number')
+#5 /home/valisoa/Hobby-mood/site/public_html/wp-admin/includes/class-wp-posts-list-table.php(1290): WP_List_Table->single_row_columns(Object(WP in /home/valisoa/Hobby-mood/site/public_html/wp-content/plugins/homey-core/classes/class-invoice-post-type.php on line 106
+

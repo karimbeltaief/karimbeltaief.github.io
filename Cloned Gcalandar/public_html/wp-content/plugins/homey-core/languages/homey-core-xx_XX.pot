@@ -1,0 +1,1754 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Homey Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-11 16:33+0500\n"
+"PO-Revision-Date: 2018-02-14 00:38+0500\n"
+"Last-Translator: \n"
+"Language-Team: Favethemes <hello@favethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Revision-Date: Sun Jul 24 2016 23:27:11 GMT+0500 (PKT)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-currencies.php:166
+msgid "The currency has been added, excellent!"
+msgstr ""
+
+#: classes/class-currencies.php:173
+msgid "The currency has been updated, excellent!"
+msgstr ""
+
+#: classes/class-currencies.php:180 classes/class-fields-builder.php:162
+msgid "There has been an error. Bummer!"
+msgstr ""
+
+#: classes/class-fields-builder.php:84 elementor/widgets/icon-box.php:126
+msgid "Text"
+msgstr ""
+
+#: classes/class-fields-builder.php:85
+msgid "Text area"
+msgstr ""
+
+#: classes/class-fields-builder.php:86
+msgid "Select"
+msgstr ""
+
+#: classes/class-fields-builder.php:148
+msgid "The field has been added, excellent!"
+msgstr ""
+
+#: classes/class-fields-builder.php:155
+msgid "The field has been updated, excellent!"
+msgstr ""
+
+#: classes/class-homey-init.php:391 classes/class-homey-init.php:392
+msgid "Homey"
+msgstr ""
+
+#: classes/class-homey-init.php:402 classes/class-homey-init.php:403
+msgid "Dashboard"
+msgstr ""
+
+#: classes/class-homey-init.php:411 classes/class-homey-init.php:412
+msgid "Fields builder"
+msgstr ""
+
+#: classes/class-homey-init.php:420 classes/class-homey-init.php:421
+#: templates/currency/currency-list.php:3 templates/currency/form.php:16
+msgid "Currencies"
+msgstr ""
+
+#: classes/class-homey-init.php:429
+msgid "API Settings"
+msgstr ""
+
+#: classes/class-homey-init.php:438 classes/class-homey-init.php:439
+#: classes/class-permalinks.php:48 templates/tabs.php:15
+msgid "Permalinks"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:33
+msgid "Invoices"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:34
+msgid "Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:35
+#: classes/class-listing-post-type.php:55
+#: classes/class-listing-post-type.php:56
+#: classes/class-listing-post-type.php:106
+#: classes/class-listing-post-type.php:127
+#: classes/class-listing-post-type.php:148
+#: classes/class-listing-post-type.php:169
+#: classes/class-listing-post-type.php:190
+#: classes/class-listing-post-type.php:211
+#: classes/class-listing-post-type.php:232
+#: classes/class-listing-post-type.php:253
+#: classes/class-partners-post-type.php:33
+#: classes/class-reservation-post-type.php:32
+#: classes/class-reservation-post-type.php:33
+#: classes/class-review-post-type.php:30
+#: classes/class-review-post-type.php:31
+#: classes/class-testimonials-post-type.php:36
+#: templates/currency/currency-list.php:4 templates/currency/form.php:17
+#: templates/fields-builder/fields-form.php:16
+#: templates/fields-builder/index.php:6
+msgid "Add New"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:36
+msgid "Add New Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:37
+msgid "Edit Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:38
+msgid "New Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:39
+msgid "View Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:40
+msgid "Search Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:41
+msgid "No Invoice found"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:42
+msgid "No Invoice found in Trash"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:81
+msgid "Invoice Title"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:82
+#: classes/class-listing-post-type.php:381
+msgid "Price"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:83
+msgid "Billion For"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:84
+msgid "Invoice Type"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:85
+msgid "Payment Method"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:86
+msgid "Buyer"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:87
+#: classes/class-reservation-post-type.php:108
+#: classes/class-review-post-type.php:88
+msgid "Status"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:88
+#: classes/class-listing-post-type.php:388
+#: classes/class-reservation-post-type.php:117
+#: classes/class-review-post-type.php:89 elementor/widgets/partners.php:94
+#: elementor/widgets/testimonials.php:136
+msgid "Date"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:117
+msgid "Direct Bank Transfer"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:148
+msgid "Not Paid"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:150
+msgid "Paid"
+msgstr ""
+
+#: classes/class-listing-post-type.php:53 elementor/widgets/listings.php:37
+msgid "Listings"
+msgstr ""
+
+#: classes/class-listing-post-type.php:54 classes/class-permalinks.php:51
+#: includes/metaboxes.php:116
+msgid "Listing"
+msgstr ""
+
+#: classes/class-listing-post-type.php:57
+msgid "Edit Listing"
+msgstr ""
+
+#: classes/class-listing-post-type.php:58
+msgid "New Listing"
+msgstr ""
+
+#: classes/class-listing-post-type.php:59
+msgid "View Listing"
+msgstr ""
+
+#: classes/class-listing-post-type.php:60
+msgid "Search Listing"
+msgstr ""
+
+#: classes/class-listing-post-type.php:61
+msgid "No Listing found"
+msgstr ""
+
+#: classes/class-listing-post-type.php:62
+msgid "No Listing found in Trash"
+msgstr ""
+
+#: classes/class-listing-post-type.php:105 classes/class-permalinks.php:53
+#: elementor/widgets/grids.php:134 elementor/widgets/listing-carousel.php:135
+#: elementor/widgets/listings.php:136
+msgid "Listing Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:107
+msgid "New Listing Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:126 classes/class-permalinks.php:55
+#: elementor/widgets/grids.php:146 elementor/widgets/listing-carousel.php:147
+#: elementor/widgets/listings.php:148
+#: includes/widgets/homey-taxonomies-card.php:106
+#: includes/widgets/homey-taxonomies.php:109
+msgid "Room Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:128
+msgid "New Room Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:147
+msgid "Amenities"
+msgstr ""
+
+#: classes/class-listing-post-type.php:149
+msgid "New Amenity"
+msgstr ""
+
+#: classes/class-listing-post-type.php:168
+msgid "Facilities"
+msgstr ""
+
+#: classes/class-listing-post-type.php:170
+msgid "New Facility"
+msgstr ""
+
+#: classes/class-listing-post-type.php:189
+#: classes/class-listing-post-type.php:478 classes/class-permalinks.php:61
+#: includes/widgets/homey-taxonomies-card.php:108
+#: includes/widgets/homey-taxonomies.php:111
+msgid "Country"
+msgstr ""
+
+#: classes/class-listing-post-type.php:191
+msgid "New Country"
+msgstr ""
+
+#: classes/class-listing-post-type.php:210 classes/class-permalinks.php:63
+msgid "State"
+msgstr ""
+
+#: classes/class-listing-post-type.php:212
+msgid "New State"
+msgstr ""
+
+#: classes/class-listing-post-type.php:231
+#: classes/class-listing-post-type.php:410 classes/class-permalinks.php:65
+#: includes/widgets/homey-taxonomies-card.php:110
+#: includes/widgets/homey-taxonomies.php:113
+msgid "City"
+msgstr ""
+
+#: classes/class-listing-post-type.php:233
+msgid "New City"
+msgstr ""
+
+#: classes/class-listing-post-type.php:252 classes/class-permalinks.php:67
+#: includes/widgets/homey-taxonomies-card.php:112
+#: includes/widgets/homey-taxonomies.php:115
+msgid "Area"
+msgstr ""
+
+#: classes/class-listing-post-type.php:254
+msgid "New area"
+msgstr ""
+
+#: classes/class-listing-post-type.php:378 elementor/widgets/icon-box.php:121
+#: elementor/widgets/partners.php:93 elementor/widgets/promo-boxes.php:95
+#: elementor/widgets/register.php:87 elementor/widgets/testimonials.php:135
+#: includes/widgets/homey-flickr-photos.php:148
+msgid "Title"
+msgstr ""
+
+#: classes/class-listing-post-type.php:379
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/class-listing-post-type.php:380
+#: includes/widgets/homey-taxonomies-card.php:104
+#: includes/widgets/homey-taxonomies.php:107
+#: templates/fields-builder/fields-form.php:32
+msgid "Type"
+msgstr ""
+
+#: classes/class-listing-post-type.php:382
+#: elementor/widgets/listing-by-id.php:101
+msgid "Listing ID"
+msgstr ""
+
+#: classes/class-listing-post-type.php:383
+msgid "Featured"
+msgstr ""
+
+#: classes/class-listing-post-type.php:387
+#: classes/class-reservation-post-type.php:107
+#: classes/class-review-post-type.php:87 elementor/widgets/grids.php:241
+#: elementor/widgets/partners.php:92 elementor/widgets/testimonials.php:134
+msgid "ID"
+msgstr ""
+
+#: classes/class-listing-post-type.php:389
+#: classes/class-reservation-post-type.php:116
+#: classes/class-review-post-type.php:96
+msgid "Actions"
+msgstr ""
+
+#: classes/class-listing-post-type.php:409
+#: classes/class-listing-post-type.php:442
+#: classes/class-listing-post-type.php:477 elementor/widgets/grids.php:239
+#: templates/currency/currency-list.php:10
+msgid "Name"
+msgstr ""
+
+#: classes/class-listing-post-type.php:412
+#: classes/class-listing-post-type.php:445
+#: classes/class-listing-post-type.php:480
+msgid "Slug"
+msgstr ""
+
+#: classes/class-listing-post-type.php:413
+#: classes/class-listing-post-type.php:446
+#: classes/class-listing-post-type.php:481
+msgid "Posts"
+msgstr ""
+
+#: classes/class-listing-post-type.php:443
+msgid "County/State"
+msgstr ""
+
+#: classes/class-listing-post-type.php:527
+#: classes/class-listing-post-type.php:572
+#: classes/class-listing-post-type.php:581
+#: classes/class-listing-post-type.php:590
+msgid "NA"
+msgstr ""
+
+#: classes/class-listing-post-type.php:537 elementor/widgets/grids.php:211
+#: elementor/widgets/grids.php:225 elementor/widgets/listing-carousel.php:305
+#: elementor/widgets/listing-carousel.php:317
+#: elementor/widgets/listing-carousel.php:340
+#: elementor/widgets/listing-carousel.php:354 includes/metaboxes.php:257
+msgid "No"
+msgstr ""
+
+#: classes/class-listing-post-type.php:539 elementor/widgets/grids.php:212
+#: elementor/widgets/grids.php:226 elementor/widgets/listing-carousel.php:304
+#: elementor/widgets/listing-carousel.php:318
+#: elementor/widgets/listing-carousel.php:341
+#: elementor/widgets/listing-carousel.php:355 includes/metaboxes.php:258
+msgid "Yes"
+msgstr ""
+
+#: classes/class-listing-post-type.php:548
+msgid "No Address Provided!"
+msgstr ""
+
+#: classes/class-listing-post-type.php:602
+msgid "Approve"
+msgstr ""
+
+#: classes/class-listing-post-type.php:622
+msgid "by a guest"
+msgstr ""
+
+#: classes/class-listing-post-type.php:622
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: classes/class-partners-post-type.php:31 elementor/widgets/partners.php:37
+msgid "Partners"
+msgstr ""
+
+#: classes/class-partners-post-type.php:32
+msgid "Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:34
+msgid "Add New Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:35
+msgid "Edit Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:36
+msgid "New Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:37
+msgid "View Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:38
+msgid "Search Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:39
+msgid "No Partner found"
+msgstr ""
+
+#: classes/class-partners-post-type.php:40
+msgid "No Partner found in Trash"
+msgstr ""
+
+#: classes/class-permalinks.php:35
+msgid "Update Permalinks"
+msgstr ""
+
+#: classes/class-permalinks.php:57
+msgid "Amenity"
+msgstr ""
+
+#: classes/class-permalinks.php:59
+msgid "Facility"
+msgstr ""
+
+#: classes/class-permalinks.php:109
+msgid "Set up custom permalinks for the listing section on your site."
+msgstr ""
+
+#: classes/class-reservation-post-type.php:30
+msgid "Reservations"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:31 includes/metaboxes.php:29
+msgid "Reservation"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:34
+msgid "Edit Reservation"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:35
+msgid "New Reservation"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:36
+msgid "View Reservation"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:37
+msgid "Search Reservation"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:38
+msgid "No Reservation found"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:39
+msgid "No Reservation found in Trash"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:106
+#: classes/class-review-post-type.php:86
+msgid "Pic"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:110
+#: classes/class-review-post-type.php:90
+msgid "Address"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:111
+#: classes/class-review-post-type.php:91
+msgid "Check-in"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:112
+#: classes/class-review-post-type.php:92
+msgid "Check-out"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:113
+#: classes/class-review-post-type.php:93
+msgid "Guests"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:114
+#: classes/class-review-post-type.php:94
+msgid "Pets"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:115
+#: classes/class-review-post-type.php:95
+msgid "Subtotal"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:170
+#: classes/class-reservation-post-type.php:181 includes/metaboxes.php:136
+#: includes/metaboxes.php:150
+msgid "at"
+msgstr ""
+
+#: classes/class-reservation-post-type.php:227
+#: classes/class-review-post-type.php:180
+msgid "View Detail"
+msgstr ""
+
+#: classes/class-review-post-type.php:28
+msgid "Reviews"
+msgstr ""
+
+#: classes/class-review-post-type.php:29
+msgid "Review"
+msgstr ""
+
+#: classes/class-review-post-type.php:32
+msgid "Edit Review"
+msgstr ""
+
+#: classes/class-review-post-type.php:33
+msgid "New Review"
+msgstr ""
+
+#: classes/class-review-post-type.php:34
+msgid "View Review"
+msgstr ""
+
+#: classes/class-review-post-type.php:35
+msgid "Search Review"
+msgstr ""
+
+#: classes/class-review-post-type.php:36
+msgid "No Review found"
+msgstr ""
+
+#: classes/class-review-post-type.php:37
+msgid "No Review found in Trash"
+msgstr ""
+
+#: classes/class-review-post-type.php:164
+msgid "Confirm"
+msgstr ""
+
+#: classes/class-review-post-type.php:171
+msgid "Decline"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:34
+#: elementor/widgets/testimonials.php:37
+msgid "Testimonials"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:35
+msgid "Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:37
+msgid "Add New Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:38
+msgid "Edit Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:39
+msgid "New Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:40
+msgid "View Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:41
+msgid "Search Agent"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:42
+msgid "No Testimonial found"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:43
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: elementor/elementor.php:61
+msgid "Homey Elements"
+msgstr ""
+
+#: elementor/widgets/blog-posts-carousel.php:37
+msgid "Blog Posts Carousel"
+msgstr ""
+
+#: elementor/widgets/blog-posts-carousel.php:83
+#: elementor/widgets/blog-posts.php:83 elementor/widgets/grids.php:92
+#: elementor/widgets/icon-box.php:88 elementor/widgets/listing-by-id.php:79
+#: elementor/widgets/listing-by-ids.php:79
+#: elementor/widgets/listing-carousel.php:113
+#: elementor/widgets/listings.php:113 elementor/widgets/partners.php:80
+#: elementor/widgets/promo-boxes.php:79 elementor/widgets/promo-boxes.php:104
+#: elementor/widgets/register.php:79 elementor/widgets/space.php:79
+#: elementor/widgets/testimonials.php:79
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/blog-posts-carousel.php:92
+#: elementor/widgets/blog-posts.php:92
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/blog-posts-carousel.php:103
+#: elementor/widgets/blog-posts.php:103
+msgid "Number of posts to show"
+msgstr ""
+
+#: elementor/widgets/blog-posts.php:37
+msgid "Blog Posts Grid"
+msgstr ""
+
+#: elementor/widgets/grids.php:37
+msgid "Homey Grids"
+msgstr ""
+
+#: elementor/widgets/grids.php:100
+msgid "Choose Grid"
+msgstr ""
+
+#: elementor/widgets/grids.php:116
+msgid "Choose Taxonomy"
+msgstr ""
+
+#: elementor/widgets/grids.php:158 elementor/widgets/listing-carousel.php:159
+#: elementor/widgets/listings.php:160
+msgid "Listing Country"
+msgstr ""
+
+#: elementor/widgets/grids.php:170 elementor/widgets/listing-carousel.php:171
+#: elementor/widgets/listings.php:172
+msgid "Listing State"
+msgstr ""
+
+#: elementor/widgets/grids.php:182 elementor/widgets/listing-carousel.php:183
+#: elementor/widgets/listings.php:184
+msgid "Listing City"
+msgstr ""
+
+#: elementor/widgets/grids.php:194 elementor/widgets/listing-carousel.php:195
+#: elementor/widgets/listings.php:196
+msgid "Listing Area"
+msgstr ""
+
+#: elementor/widgets/grids.php:208 includes/widgets/homey-taxonomies.php:134
+msgid "Show Child"
+msgstr ""
+
+#: elementor/widgets/grids.php:222
+msgid "Hide Empty"
+msgstr ""
+
+#: elementor/widgets/grids.php:236 elementor/widgets/partners.php:88
+#: elementor/widgets/testimonials.php:130
+msgid "Order By"
+msgstr ""
+
+#: elementor/widgets/grids.php:240
+#: includes/widgets/homey-taxonomies-card.php:119
+#: includes/widgets/homey-taxonomies.php:122
+msgid "Count"
+msgstr ""
+
+#: elementor/widgets/grids.php:251 elementor/widgets/partners.php:106
+#: elementor/widgets/testimonials.php:146
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/grids.php:254 elementor/widgets/partners.php:109
+#: elementor/widgets/testimonials.php:149
+msgid "ASC"
+msgstr ""
+
+#: elementor/widgets/grids.php:255 elementor/widgets/partners.php:110
+#: elementor/widgets/testimonials.php:150
+msgid "DESC"
+msgstr ""
+
+#: elementor/widgets/grids.php:265
+msgid "Number of Items to Show"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:43 elementor/widgets/icon-box.php:96
+msgid "Icon Box"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:101
+msgid "Icon Type"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:111
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:116
+msgid "Custom Icon"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:131
+msgid "Read More Text"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:136
+msgid "Read More Link"
+msgstr ""
+
+#: elementor/widgets/icon-box.php:149
+msgid "Icons Boxes Settings"
+msgstr ""
+
+#: elementor/widgets/listing-by-id.php:37
+msgid "Listing by ID"
+msgstr ""
+
+#: elementor/widgets/listing-by-id.php:87
+#: elementor/widgets/listing-by-ids.php:87
+#: elementor/widgets/listing-carousel.php:121
+#: elementor/widgets/listings.php:121
+msgid "Listing style"
+msgstr ""
+
+#: elementor/widgets/listing-by-id.php:93
+#: elementor/widgets/listing-by-ids.php:93
+#: elementor/widgets/listing-carousel.php:127
+msgid "Select grid/card style, the default style will be list view"
+msgstr ""
+
+#: elementor/widgets/listing-by-id.php:103
+msgid "Enter the listing ID. Example 305"
+msgstr ""
+
+#: elementor/widgets/listing-by-ids.php:37
+msgid "Listings by IDs"
+msgstr ""
+
+#: elementor/widgets/listing-by-ids.php:100
+msgid "Columns in Row"
+msgstr ""
+
+#: elementor/widgets/listing-by-ids.php:114
+#: elementor/widgets/listing-carousel.php:207
+msgid "Listing IDs"
+msgstr ""
+
+#: elementor/widgets/listing-by-ids.php:116
+msgid "Enter Listings ids comma separated. Ex 12,305,34"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:37
+msgid "Listings Carousel"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:78
+#: elementor/widgets/listing-carousel.php:101
+#: elementor/widgets/listings.php:78 elementor/widgets/listings.php:101
+#: includes/metaboxes.php:273
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:79
+#: elementor/widgets/listing-carousel.php:102
+#: elementor/widgets/listings.php:79 elementor/widgets/listings.php:102
+msgid "Price (Low to High)"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:80
+#: elementor/widgets/listing-carousel.php:103
+#: elementor/widgets/listings.php:80 elementor/widgets/listings.php:103
+msgid "Price (High to Low)"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:81
+#: elementor/widgets/listings.php:81
+msgid "Date (Old to New)"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:82
+#: elementor/widgets/listings.php:82
+msgid "Date (New to Old)"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:83
+#: elementor/widgets/listing-carousel.php:106
+#: elementor/widgets/listings.php:83 elementor/widgets/listings.php:106
+msgid "Featured on Top"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:84
+#: elementor/widgets/listing-carousel.php:107
+#: elementor/widgets/listings.php:84 elementor/widgets/listings.php:107
+#: elementor/widgets/partners.php:95 elementor/widgets/testimonials.php:137
+msgid "Random"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:104
+#: elementor/widgets/listings.php:104
+msgid "Date Old to New"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:105
+#: elementor/widgets/listings.php:105
+msgid "Date New to Old"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:209
+msgid "Enter listings ids comma separated. Ex 12,305,34"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:216
+#: elementor/widgets/listings.php:209
+msgid "Featured listings"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:219
+#: elementor/widgets/listings.php:212
+msgid "- Any -"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:220
+#: elementor/widgets/listings.php:213
+msgid "Without Featured"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:221
+#: elementor/widgets/listings.php:214
+msgid "Only Featured"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:223
+#: elementor/widgets/listings.php:216
+msgid ""
+"You can make a post featured by clicking the featured listings checkbox "
+"while add/edit post"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:231
+#: elementor/widgets/listings.php:238
+msgid "Sort By"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:242
+#: elementor/widgets/listings.php:249
+msgid "Number of properties"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:264
+msgid "Carousel Settings"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:273
+msgid "Slides To Show"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:286
+msgid "Slides To Scroll"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:301
+msgid "Infinite Scroll"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:314
+msgid "Auto Play"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:330
+msgid "Autoplay Speed in milliseconds. Default 3000"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:337
+msgid "Next/Prev Navigation"
+msgstr ""
+
+#: elementor/widgets/listing-carousel.php:351
+msgid "Dots Nav"
+msgstr ""
+
+#: elementor/widgets/listings.php:128
+msgid "Choose grid/list/card style, default will be list view"
+msgstr ""
+
+#: elementor/widgets/listings.php:224
+msgid "Load More"
+msgstr ""
+
+#: elementor/widgets/listings.php:227
+msgid "Enable"
+msgstr ""
+
+#: elementor/widgets/listings.php:228
+msgid "Disable"
+msgstr ""
+
+#: elementor/widgets/listings.php:230
+msgid "Show load more pagination"
+msgstr ""
+
+#: elementor/widgets/partners.php:91 elementor/widgets/testimonials.php:133
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/partners.php:96 elementor/widgets/testimonials.php:138
+msgid "Menu Order"
+msgstr ""
+
+#: elementor/widgets/partners.php:128 elementor/widgets/testimonials.php:113
+msgid "Limit"
+msgstr ""
+
+#: elementor/widgets/partners.php:130 elementor/widgets/testimonials.php:115
+msgid "Number of testimonials to show."
+msgstr ""
+
+#: elementor/widgets/promo-boxes.php:37
+msgid "Promo Box"
+msgstr ""
+
+#: elementor/widgets/promo-boxes.php:87
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/promo-boxes.php:112
+msgid "URL"
+msgstr ""
+
+#: elementor/widgets/promo-boxes.php:120
+msgid "URL Text"
+msgstr ""
+
+#: elementor/widgets/register.php:37 vc_shortcodes/register.php:65
+msgid "Register"
+msgstr ""
+
+#: elementor/widgets/section-title.php:37
+#: elementor/widgets/section-title.php:114
+msgid "Section Title"
+msgstr ""
+
+#: elementor/widgets/section-title.php:79
+msgid "Section Titles"
+msgstr ""
+
+#: elementor/widgets/section-title.php:87
+#: elementor/widgets/section-title.php:190
+msgid "Main Title"
+msgstr ""
+
+#: elementor/widgets/section-title.php:95
+#: elementor/widgets/section-title.php:201
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/section-title.php:105
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/section-title.php:135
+msgid "Section Subtitle "
+msgstr ""
+
+#: elementor/widgets/section-title.php:155
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/section-title.php:159 includes/metaboxes.php:266
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/section-title.php:163
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/section-title.php:167 includes/metaboxes.php:265
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/section-title.php:183
+msgid "Titles Colors"
+msgstr ""
+
+#: elementor/widgets/section-title.php:215
+msgid "Spacings"
+msgstr ""
+
+#: elementor/widgets/section-title.php:223
+msgid "Main Title Margin Bottom"
+msgstr ""
+
+#: elementor/widgets/section-title.php:253
+msgid "Subtitle Margin Bottom"
+msgstr ""
+
+#: elementor/widgets/section-title.php:283
+msgid "Section Margin Bottom"
+msgstr ""
+
+#: elementor/widgets/space.php:37
+msgid "Empty Space"
+msgstr ""
+
+#: elementor/widgets/space.php:87
+msgid "Height of the space(px)"
+msgstr ""
+
+#: elementor/widgets/space.php:89
+msgid ""
+"Set height of the space. You can add white space between elements to "
+"separate them beautifully."
+msgstr ""
+
+#: elementor/widgets/testimonials.php:87
+msgid "Testimonials Type"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:90
+msgid "Grid"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:91
+msgid "Slides"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:100
+msgid "Columns"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:103
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:104
+msgid "4 Columns"
+msgstr ""
+
+#: elementor/widgets/testimonials.php:122
+msgid "Offset posts"
+msgstr ""
+
+#: functions/emails.php:70
+msgid "Follow us on"
+msgstr ""
+
+#: functions/emails.php:138
+msgid "Invalid Nonce!"
+msgstr ""
+
+#: functions/emails.php:155
+#, php-format
+msgid "%s Email address is not configured!"
+msgstr ""
+
+#: functions/emails.php:164 functions/emails.php:288
+msgid "Name field is empty!"
+msgstr ""
+
+#: functions/emails.php:173
+msgid "Phone field is empty!"
+msgstr ""
+
+#: functions/emails.php:183
+msgid "Invalid email address!"
+msgstr ""
+
+#: functions/emails.php:192
+msgid "Your message is empty!"
+msgstr ""
+
+#: functions/emails.php:213
+#, php-format
+msgid "New message sent by %s using host contact form at %s"
+msgstr ""
+
+#: functions/emails.php:215
+msgid "You have received new message from: "
+msgstr ""
+
+#: functions/emails.php:218
+msgid "Listing Title : "
+msgstr ""
+
+#: functions/emails.php:222
+msgid "Listing URL : "
+msgstr ""
+
+#: functions/emails.php:226 functions/emails.php:331
+msgid "Phone Number : "
+msgstr ""
+
+#: functions/emails.php:229
+msgid "Additional message is."
+msgstr ""
+
+#: functions/emails.php:231 functions/emails.php:335
+#, php-format
+msgid "You can contact %s via email %s"
+msgstr ""
+
+#: functions/emails.php:241
+msgid "Email Sent Successfully!"
+msgstr ""
+
+#: functions/emails.php:247 functions/emails.php:353
+msgid "Server Error: Make sure Email function working on your server!"
+msgstr ""
+
+#: functions/emails.php:266
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: functions/emails.php:278
+#, php-format
+msgid "%s Target Email address is not properly configured!"
+msgstr ""
+
+#: functions/emails.php:298
+msgid "Provided Email address is invalid!"
+msgstr ""
+
+#: functions/emails.php:307
+msgid "Your message empty!"
+msgstr ""
+
+#: functions/emails.php:327
+#, php-format
+msgid "New message sent by %s using contact form at %s"
+msgstr ""
+
+#: functions/emails.php:329
+msgid "You have received a message from: "
+msgstr ""
+
+#: functions/emails.php:333
+msgid "Additional message is as follows."
+msgstr ""
+
+#: functions/emails.php:347
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: functions/functions.php:111
+msgid "Activated Successfully, reload page!"
+msgstr ""
+
+#: functions/functions.php:113
+msgid "Invalid license key"
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:64
+msgid "The secret parameter is missing."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:65
+msgid "The secret parameter is invalid or malformed."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:66
+msgid "The response parameter is missing."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:67
+msgid "The response parameter is invalid or malformed."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:68
+msgid "The request is invalid or malformed."
+msgstr ""
+
+#: includes/honor-ssl-for-attachments.php:73
+msgid "reCAPTCHA Failed:"
+msgstr ""
+
+#: includes/metaboxes.php:35
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/metaboxes.php:65
+msgid "Hours"
+msgstr ""
+
+#: includes/metaboxes.php:67
+msgid "Hour"
+msgstr ""
+
+#: includes/metaboxes.php:108
+msgid "From"
+msgstr ""
+
+#: includes/metaboxes.php:127
+msgid "Details"
+msgstr ""
+
+#: includes/metaboxes.php:208
+msgid "Notes"
+msgstr ""
+
+#: includes/metaboxes.php:255
+msgid "Show Sidebar?"
+msgstr ""
+
+#: includes/metaboxes.php:263
+msgid "Sidebar Position"
+msgstr ""
+
+#: includes/metaboxes.php:271
+msgid "Select Sidebar"
+msgstr ""
+
+#: includes/widgets/homey-about.php:12
+msgid "Homey: About Site"
+msgstr ""
+
+#: includes/widgets/homey-about.php:13
+msgid "About site widget"
+msgstr ""
+
+#: includes/widgets/homey-about.php:56
+#: includes/widgets/homey-latest-posts.php:96
+msgid "Read more"
+msgstr ""
+
+#: includes/widgets/homey-about.php:100
+#: includes/widgets/homey-code-banner.php:93
+#: includes/widgets/homey-contact.php:120
+#: includes/widgets/homey-facebook.php:113
+#: includes/widgets/homey-image-banner-300-250.php:106
+#: includes/widgets/homey-latest-comments.php:128
+#: includes/widgets/homey-latest-posts.php:147
+#: includes/widgets/homey-listing-list.php:314
+#: includes/widgets/homey-listing.php:235
+#: includes/widgets/homey-reviews.php:149
+#: includes/widgets/homey-taxonomies-card.php:97
+#: includes/widgets/homey-taxonomies.php:100
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/homey-about.php:105
+msgid "Image Url:"
+msgstr ""
+
+#: includes/widgets/homey-about.php:110
+#: includes/widgets/homey-contact.php:125
+msgid "Text:"
+msgstr ""
+
+#: includes/widgets/homey-about.php:115
+msgid "Read More Link:"
+msgstr ""
+
+#: includes/widgets/homey-code-banner.php:12
+msgid "Homey: Code Banner"
+msgstr ""
+
+#: includes/widgets/homey-code-banner.php:13
+msgid "Paste your banner JS or Google Adsense code"
+msgstr ""
+
+#: includes/widgets/homey-code-banner.php:97
+msgid "JS or Google AdSense Code"
+msgstr ""
+
+#: includes/widgets/homey-code-banner.php:102
+#: includes/widgets/homey-image-banner-300-250.php:119
+msgid "Do not display the title"
+msgstr ""
+
+#: includes/widgets/homey-contact.php:12
+msgid "Homey: Contact Us"
+msgstr ""
+
+#: includes/widgets/homey-contact.php:13
+msgid "Contact us widget"
+msgstr ""
+
+#: includes/widgets/homey-contact.php:69
+msgid "Contact us"
+msgstr ""
+
+#: includes/widgets/homey-contact.php:130
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/homey-contact.php:135
+msgid "Phone Number:"
+msgstr ""
+
+#: includes/widgets/homey-contact.php:140
+msgid "Fax:"
+msgstr ""
+
+#: includes/widgets/homey-contact.php:145
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets/homey-contact.php:150
+msgid "Link:"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:15
+msgid "Homey: Facebook"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:16
+msgid "Adds support for Facebook Like Box."
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:119
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:124
+msgid "Width:"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:129
+msgid "Height:"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:135
+msgid "Adapt to container width"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:140
+msgid "Use Small Header"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:145
+msgid "Show Friend's faces"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:150
+msgid "Show Page Posts"
+msgstr ""
+
+#: includes/widgets/homey-facebook.php:155
+msgid "Hide Widget Title"
+msgstr ""
+
+#: includes/widgets/homey-flickr-photos.php:18
+msgid "Homey: Flickr"
+msgstr ""
+
+#: includes/widgets/homey-flickr-photos.php:19
+msgid "Show photos from Flickr."
+msgstr ""
+
+#: includes/widgets/homey-flickr-photos.php:152
+msgid "Flickr ID"
+msgstr ""
+
+#: includes/widgets/homey-flickr-photos.php:152
+msgid "What's my Flickr ID?"
+msgstr ""
+
+#: includes/widgets/homey-flickr-photos.php:154
+msgid "Example ID: 23100287@N07"
+msgstr ""
+
+#: includes/widgets/homey-flickr-photos.php:157
+msgid "Number of photos"
+msgstr ""
+
+#: includes/widgets/homey-flickr-photos.php:162
+msgid "Thumbnail width"
+msgstr ""
+
+#: includes/widgets/homey-flickr-photos.php:167
+msgid "Thumbnail height"
+msgstr ""
+
+#: includes/widgets/homey-image-banner-300-250.php:19
+msgid "Homey: Image Banner 300x250"
+msgstr ""
+
+#: includes/widgets/homey-image-banner-300-250.php:20
+msgid "Add image banner 300x300 or 300x250"
+msgstr ""
+
+#: includes/widgets/homey-image-banner-300-250.php:110
+msgid "Image Banner URL:"
+msgstr ""
+
+#: includes/widgets/homey-image-banner-300-250.php:114
+msgid "Image Banner Link:"
+msgstr ""
+
+#: includes/widgets/homey-latest-comments.php:21
+msgid "Homey: Latest Comments"
+msgstr ""
+
+#: includes/widgets/homey-latest-comments.php:22
+msgid "Display the most latest comments "
+msgstr ""
+
+#: includes/widgets/homey-latest-comments.php:71
+msgid "on"
+msgstr ""
+
+#: includes/widgets/homey-latest-comments.php:132
+msgid "Comments to show:"
+msgstr ""
+
+#: includes/widgets/homey-latest-posts.php:16
+msgid "Homey: Latest Posts"
+msgstr ""
+
+#: includes/widgets/homey-latest-posts.php:17
+msgid "Show latest posts by category"
+msgstr ""
+
+#: includes/widgets/homey-latest-posts.php:89
+#: includes/widgets/homey-reviews.php:88
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/widgets/homey-latest-posts.php:91
+msgid "by"
+msgstr ""
+
+#: includes/widgets/homey-latest-posts.php:151
+#: includes/widgets/homey-listing-list.php:403
+#: includes/widgets/homey-listing.php:319
+#: includes/widgets/homey-reviews.php:153
+#: includes/widgets/homey-taxonomies-card.php:128
+#: includes/widgets/homey-taxonomies.php:140
+msgid "Maximum posts to show:"
+msgstr ""
+
+#: includes/widgets/homey-latest-posts.php:159
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/homey-latest-posts.php:162
+#: includes/widgets/homey-listing-list.php:304
+#: includes/widgets/homey-listing.php:225
+msgid "All"
+msgstr ""
+
+#: includes/widgets/homey-listing-list.php:18
+msgid "Homey: Listing list"
+msgstr ""
+
+#: includes/widgets/homey-listing-list.php:19
+msgid "Show listing with list view"
+msgstr ""
+
+#: includes/widgets/homey-listing-list.php:318
+#: includes/widgets/homey-listing.php:239
+msgid "Listing Type filter:"
+msgstr ""
+
+#: includes/widgets/homey-listing-list.php:334
+#: includes/widgets/homey-listing.php:255
+msgid "Room Type filter:"
+msgstr ""
+
+#: includes/widgets/homey-listing-list.php:350
+#: includes/widgets/homey-listing.php:271
+msgid "Listing City filter:"
+msgstr ""
+
+#: includes/widgets/homey-listing-list.php:366
+#: includes/widgets/homey-listing.php:287
+msgid "Listing Area filter:"
+msgstr ""
+
+#: includes/widgets/homey-listing-list.php:382
+#: includes/widgets/homey-listing.php:303
+msgid "Listing State filter:"
+msgstr ""
+
+#: includes/widgets/homey-listing-list.php:399
+#: includes/widgets/homey-listing.php:332
+msgid "Show only featured:"
+msgstr ""
+
+#: includes/widgets/homey-listing.php:18
+msgid "Homey: Listing Card"
+msgstr ""
+
+#: includes/widgets/homey-listing.php:19
+msgid "Show listing card"
+msgstr ""
+
+#: includes/widgets/homey-listing.php:324
+msgid "Display Listings as Slider"
+msgstr ""
+
+#: includes/widgets/homey-listing.php:327
+msgid "Display Listings as List"
+msgstr ""
+
+#: includes/widgets/homey-reviews.php:18
+msgid "Homey: Reviews"
+msgstr ""
+
+#: includes/widgets/homey-reviews.php:19
+msgid "Show latest reviews"
+msgstr ""
+
+#: includes/widgets/homey-taxonomies-card.php:18
+msgid "Homey: Taxonomies Cards"
+msgstr ""
+
+#: includes/widgets/homey-taxonomies-card.php:19
+#: includes/widgets/homey-taxonomies.php:19
+msgid "Show listing type, room type, countries, cities, areas"
+msgstr ""
+
+#: includes/widgets/homey-taxonomies-card.php:101
+#: includes/widgets/homey-taxonomies.php:104
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/widgets/homey-taxonomies-card.php:121
+#: includes/widgets/homey-taxonomies.php:124
+msgid "Show Count"
+msgstr ""
+
+#: includes/widgets/homey-taxonomies-card.php:122
+#: includes/widgets/homey-taxonomies.php:125
+msgid "Hide Count"
+msgstr ""
+
+#: includes/widgets/homey-taxonomies.php:18
+msgid "Homey: Taxonomies List"
+msgstr ""
+
+#: includes/widgets/homey-taxonomies.php:131
+msgid "Child"
+msgstr ""
+
+#: includes/widgets/homey-taxonomies.php:133
+msgid "Hide Child"
+msgstr ""
+
+#: templates/currency/currency-list.php:11
+msgid "Code"
+msgstr ""
+
+#: templates/currency/currency-list.php:12
+msgid "Symbol"
+msgstr ""
+
+#: templates/currency/currency-list.php:13
+msgid "Position"
+msgstr ""
+
+#: templates/currency/currency-list.php:14
+msgid "N. of Decimal Point"
+msgstr ""
+
+#: templates/currency/currency-list.php:15
+msgid "Decimal Point Separator"
+msgstr ""
+
+#: templates/currency/currency-list.php:16
+msgid "Thousands Separator"
+msgstr ""
+
+#: templates/currency/currency-list.php:17
+#: templates/fields-builder/index.php:13
+msgid "Edit"
+msgstr ""
+
+#: templates/currency/currency-list.php:18
+#: templates/fields-builder/index.php:14
+msgid "Delete"
+msgstr ""
+
+#: templates/currency/currency-list.php:41
+#: templates/fields-builder/index.php:36
+msgid "Edit field"
+msgstr ""
+
+#: templates/currency/currency-list.php:46
+#: templates/fields-builder/index.php:41
+msgid "Delete field"
+msgstr ""
+
+#: templates/currency/form.php:5
+msgid "Update Currency"
+msgstr ""
+
+#: templates/currency/form.php:6 templates/fields-builder/fields-form.php:6
+msgid "Update"
+msgstr ""
+
+#: templates/currency/form.php:9
+msgid "Create Currency"
+msgstr ""
+
+#: templates/currency/form.php:10 templates/fields-builder/fields-form.php:10
+msgid "Submit"
+msgstr ""
+
+#: templates/currency/form.php:23
+msgid "Currency Name"
+msgstr ""
+
+#: templates/currency/form.php:29
+msgid "Currency Code"
+msgstr ""
+
+#: templates/currency/form.php:34
+msgid "Currency Symbol"
+msgstr ""
+
+#: templates/currency/form.php:39
+msgid "Currency Position"
+msgstr ""
+
+#: templates/currency/form.php:40
+msgid "Before"
+msgstr ""
+
+#: templates/currency/form.php:40
+msgid "After"
+msgstr ""
+
+#: templates/currency/form.php:45
+msgid "Number of decimal points?"
+msgstr ""
+
+#: templates/currency/form.php:63
+msgid "Decimal Point Separator(eg: .)"
+msgstr ""
+
+#: templates/currency/form.php:68
+msgid "Thousands Separator(eg: ,)"
+msgstr ""
+
+#: templates/dashboard.php:3
+msgid "Welcome to Homey v.1.0.0"
+msgstr ""
+
+#: templates/dashboard.php:4
+msgid ""
+"Congratulations! You are about to use most customizable WP Theme for "
+"booking, accommodations and rentals."
+msgstr ""
+
+#: templates/dashboard.php:7
+msgid "Theme Options Panel"
+msgstr ""
+
+#: templates/dashboard.php:11
+msgid "Thank you for choosing Homey."
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:5
+msgid "Update field"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:9
+msgid "Create field"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:15
+#: templates/fields-builder/index.php:5
+msgid "Fields Builder"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:22
+#: templates/fields-builder/index.php:12
+msgid "Field Name"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:27
+msgid "Placeholder"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:34
+msgid "-- Choose field type --"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:58
+msgid "Upload Icon"
+msgstr ""
+
+#: templates/fields-builder/multiple.php:9
+msgid "Enter Value"
+msgstr ""
+
+#: templates/tabs.php:1
+msgid "Houzez Theme Settings"
+msgstr ""
+
+#: templates/tabs.php:13
+msgid "Custom Post Types"
+msgstr ""
+
+#: templates/tabs.php:14
+msgid "Taxonomies"
+msgstr ""
+
+#: vc_shortcodes/register.php:29
+msgid "Username"
+msgstr ""
+
+#: vc_shortcodes/register.php:32
+msgid "Email"
+msgstr ""
+
+#: vc_shortcodes/register.php:40
+msgid "Password"
+msgstr ""
+
+#: vc_shortcodes/register.php:43
+msgid "Repeat Password"
+msgstr ""
+
+#: vc_shortcodes/register.php:51
+#, php-format
+msgid "I agree with your <a href=\"%s\">Terms & Conditions</a>"
+msgstr ""

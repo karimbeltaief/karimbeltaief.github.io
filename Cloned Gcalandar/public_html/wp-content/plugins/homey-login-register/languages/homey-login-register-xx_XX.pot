@@ -1,0 +1,144 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Homey Login Register\n"
+"POT-Creation-Date: 2019-02-13 16:56+0500\n"
+"PO-Revision-Date: 2018-02-14 00:30+0500\n"
+"Last-Translator: \n"
+"Language-Team: Favethemes <hello@favethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;_n;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/login_register.php:39
+msgid "The username or email field is empty."
+msgstr ""
+
+#: functions/login_register.php:43
+msgid "The password field is empty."
+msgstr ""
+
+#: functions/login_register.php:47
+msgid "Invalid username or email"
+msgstr ""
+
+#: functions/login_register.php:73
+#, php-format
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr ""
+
+#: functions/login_register.php:85
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: functions/login_register.php:124
+msgid "You need to agree with terms & conditions."
+msgstr ""
+
+#: functions/login_register.php:129
+msgid "The username field is empty."
+msgstr ""
+
+#: functions/login_register.php:133
+msgid "Minimum 3 characters required"
+msgstr ""
+
+#: functions/login_register.php:137
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr ""
+
+#: functions/login_register.php:141
+msgid "This username is already registered."
+msgstr ""
+
+#: functions/login_register.php:145
+msgid "The email field is empty."
+msgstr ""
+
+#: functions/login_register.php:150
+msgid "This email address is already registered."
+msgstr ""
+
+#: functions/login_register.php:155
+msgid "Invalid email address."
+msgstr ""
+
+#: functions/login_register.php:164
+msgid "One of the password field is empty!"
+msgstr ""
+
+#: functions/login_register.php:169
+msgid "Passwords do not match"
+msgstr ""
+
+#: functions/login_register.php:204
+msgid "Your account was created and you can login now!"
+msgstr ""
+
+#: functions/login_register.php:206
+msgid "An email with the generated password was sent!"
+msgstr ""
+
+#: functions/login_register.php:265
+msgid "Enter a username or email address."
+msgstr ""
+
+#: functions/login_register.php:272
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: functions/login_register.php:280
+msgid "Invalid username"
+msgstr ""
+
+#: functions/login_register.php:296
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: functions/login_register.php:298
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: functions/login_register.php:299
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: functions/login_register.php:300
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: functions/login_register.php:312
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: functions/login_register.php:341
+msgid "The email could not be sent."
+msgstr ""
+
+#: functions/login_register.php:341
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: functions/login_register.php:344
+msgid "Check your email"
+msgstr ""
+
+#: functions/roles.php:10
+msgid "Renter"
+msgstr ""
+
+#: functions/roles.php:20
+msgid "Host"
+msgstr ""
+
+#~ msgid "My Partners"
+#~ msgstr "My Partners Fr p"

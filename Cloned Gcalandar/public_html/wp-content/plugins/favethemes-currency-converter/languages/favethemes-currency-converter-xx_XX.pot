@@ -1,0 +1,289 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Favethemes Currency Converter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-13 16:55+0500\n"
+"PO-Revision-Date: 2018-02-14 00:38+0500\n"
+"Last-Translator: \n"
+"Language-Team: Favethemes <hello@favethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Revision-Date: Sun Jul 24 2016 23:27:11 GMT+0500 (PKT)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-api-settings.php:46
+msgid "Save"
+msgstr ""
+
+#: classes/class-api-settings.php:59 templates/tabs.php:14
+msgid "API Settings"
+msgstr ""
+
+#: classes/class-api-settings.php:62
+msgid "API Key"
+msgstr ""
+
+#: classes/class-api-settings.php:64
+msgid "Update Interval"
+msgstr ""
+
+#: classes/class-api-settings.php:95
+#, php-format
+msgctxt "openexchangerates.org link"
+msgid ""
+"Plugin get currency data from %1s and imports it into the WordPress "
+"database. The exchange rates will be updated on a frequency that you can "
+"specify below."
+msgstr ""
+
+#: classes/class-api-settings.php:115
+msgid "Open Exchange Rates API key:"
+msgstr ""
+
+#: classes/class-api-settings.php:121
+#, php-format
+msgctxt "URL where to get the API key"
+msgid "Get yours at: %1s"
+msgstr ""
+
+#: classes/class-api-settings.php:141
+msgid "Rates update frequency:"
+msgstr ""
+
+#: classes/class-api-settings.php:143
+msgid "Hourly"
+msgstr ""
+
+#: classes/class-api-settings.php:144
+msgid "Daily"
+msgstr ""
+
+#: classes/class-api-settings.php:145
+msgid "Weekly"
+msgstr ""
+
+#: classes/class-api-settings.php:146
+msgid "Biweekly"
+msgstr ""
+
+#: classes/class-api-settings.php:147
+msgid "Monthly"
+msgstr ""
+
+#: classes/class-api-settings.php:152
+msgid "Specify the frequency when to update currencies exchange rates"
+msgstr ""
+
+#: classes/class-cron.php:52
+msgid "Once a Minute"
+msgstr ""
+
+#: classes/class-cron.php:56
+msgid "Once Weekly"
+msgstr ""
+
+#: classes/class-cron.php:60
+msgid "Once Biweekly"
+msgstr ""
+
+#: classes/class-cron.php:64
+msgid "Once Monthly"
+msgstr ""
+
+#: classes/class-currencies.php:255
+msgid "The currency has been added, excellent!"
+msgstr ""
+
+#: classes/class-currencies.php:262
+msgid "The currency has been updated, excellent!"
+msgstr ""
+
+#: classes/class-currencies.php:269
+msgid "There has been an error. Bummer!"
+msgstr ""
+
+#: classes/class-fcc-init.php:62
+msgid ""
+"Cloning the main instance of favethemes-currency-converter is forbidden."
+msgstr ""
+
+#: classes/class-fcc-init.php:71
+msgid ""
+"Unserializing instances of favethemes-currency-converter is forbidden."
+msgstr ""
+
+#: classes/class-rates.php:133
+msgid ""
+"There was a problem to update currencies and exchange rates, Please check "
+"your API key is valid and you have usage quota."
+msgstr ""
+
+#: favethemes-currency-converter.php:32
+#, php-format
+msgid ""
+"Favethemes Currency Converter requires PHP 5.6 or above to function "
+"properly. Detected PHP version on your server is %s. Please upgrade PHP to "
+"activate Favethemes Currency Converter or remove the plugin."
+msgstr ""
+
+#: functions/helper.php:16
+msgid "Base currency to get rates not found in database"
+msgstr ""
+
+#: functions/helper.php:60
+msgid "Currency was not exist or found in database."
+msgstr ""
+
+#: functions/helper.php:68
+msgid "Amount to covert is not number, it must be number."
+msgstr ""
+
+#: functions/helper.php:83
+msgid ""
+"Look like your API is not valid, There was a problem to get currency data "
+"from database."
+msgstr ""
+
+#: functions/helper.php:128
+msgid ""
+"Please pass valid currency code for argument and it must be a string of "
+"three characters long"
+msgstr ""
+
+#: functions/helper.php:138
+msgid "Currency could not be found"
+msgstr ""
+
+#: templates/currency/currency-list.php:4 templates/currency/form.php:17
+msgid "Add New Currency"
+msgstr ""
+
+#: templates/currency/currency-list.php:10
+msgid "Name"
+msgstr ""
+
+#: templates/currency/currency-list.php:11 templates/currency/rates.php:11
+msgid "Code"
+msgstr ""
+
+#: templates/currency/currency-list.php:12
+msgid "Symbol"
+msgstr ""
+
+#: templates/currency/currency-list.php:13
+msgid "Position"
+msgstr ""
+
+#: templates/currency/currency-list.php:14
+msgid "N. of Decimal Point"
+msgstr ""
+
+#: templates/currency/currency-list.php:15
+msgid "Decimal Point Separator"
+msgstr ""
+
+#: templates/currency/currency-list.php:16
+msgid "Thousands Separator"
+msgstr ""
+
+#: templates/currency/currency-list.php:17
+msgid "Edit"
+msgstr ""
+
+#: templates/currency/currency-list.php:18
+msgid "Delete"
+msgstr ""
+
+#: templates/currency/currency-list.php:41
+msgid "Edit field"
+msgstr ""
+
+#: templates/currency/currency-list.php:46
+msgid "Delete field"
+msgstr ""
+
+#: templates/currency/form.php:5
+msgid "Update Currency"
+msgstr ""
+
+#: templates/currency/form.php:6
+msgid "Update"
+msgstr ""
+
+#: templates/currency/form.php:9
+msgid "Create Currency"
+msgstr ""
+
+#: templates/currency/form.php:10
+msgid "Submit"
+msgstr ""
+
+#: templates/currency/form.php:23 templates/currency/rates.php:10
+msgid "Currency Name"
+msgstr ""
+
+#: templates/currency/form.php:29
+msgid "Currency Code"
+msgstr ""
+
+#: templates/currency/form.php:34
+msgid "Currency Symbol"
+msgstr ""
+
+#: templates/currency/form.php:39
+msgid "Currency Position"
+msgstr ""
+
+#: templates/currency/form.php:40
+msgid "Before"
+msgstr ""
+
+#: templates/currency/form.php:40
+msgid "After"
+msgstr ""
+
+#: templates/currency/form.php:45
+msgid "Number of decimal points?"
+msgstr ""
+
+#: templates/currency/form.php:63
+msgid "Decimal Point Separator(eg: .)"
+msgstr ""
+
+#: templates/currency/form.php:68
+msgid "Thousands Separator(eg: ,)"
+msgstr ""
+
+#: templates/currency/rates.php:3
+msgid "Update Exchange Rates"
+msgstr ""
+
+#: templates/currency/rates.php:12
+msgid "Exchange Rate"
+msgstr ""
+
+#: templates/currency/rates.php:13
+msgid "Last Updated"
+msgstr ""
+
+#: templates/tabs.php:12
+msgid "Currencies"
+msgstr ""
+
+#: templates/tabs.php:16
+msgid "Rates"
+msgstr ""

@@ -1,0 +1,79 @@
+/**
+ * Component: Weekselect
+ */
+.week-select {
+    width: 100%;
+    padding: 5px 0px;
+    position: relative !important;
+}
+.week-select > .week-select-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.week-select > .week-select-wrapper > div {
+    display: flex;
+    width: 100%;
+    flex-direction: inherit;
+    justify-content: start;
+    align-items: center;
+}
+.week-select > .week-select-wrapper > div .btn-calendarBo-previous {
+    width: 100%;
+    max-width: 42px;
+    padding: 0 15px !important;
+    line-height: 38px;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+.week-select > .week-select-wrapper > div .btn-calendarBo-next {
+    width: 100%;
+    max-width: 42px;
+    margin-right: 5px;
+    padding: 0 15px !important;
+    line-height: 38px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+.week-select > .week-select-wrapper > div .cache-ecran-wrapper {
+    width: calc(100% - 89px);
+    position: relative;
+    line-height: 40px;
+}
+.week-select > .week-select-wrapper > div .cache-ecran-wrapper i.fa {
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 0;
+    padding: 10px;
+    font-size: initial;
+}
+/*----------------------------------------------*/
+/**
+ * Component: Controls
+ */
+
+.controls{
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.controls .gapi-buttons{
+    display: flex; 
+    flex-direction: inherit; 
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 11px;
+}
+.controls .gapi-buttons button{
+    border-radius: 0;
+}
+
+.controls .gapi-buttons button:first-child{
+    border-radius: 5px 0 0 5px;
+}
+.controls .gapi-buttons button:last-child{
+    border-radius: 0 5px 5px 0;
+}
+/*----------------------------------------------*/

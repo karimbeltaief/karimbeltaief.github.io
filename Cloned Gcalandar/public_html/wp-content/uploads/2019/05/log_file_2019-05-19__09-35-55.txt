@@ -1,0 +1,68 @@
+
+---Downloaded files---
+The import files for: FULL DEMO 04 were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://www.hobby-mood.com
+Data file = /home/275369.cloudwaysapps.com/nmwynyemhy/public_html/wp-content/plugins/homey-core/demos/homey04/demo-content.xml
+Widget file = /home/275369.cloudwaysapps.com/nmwynyemhy/public_html/wp-content/plugins/homey-core/demos/homey04/widgets.json
+Customizer file = not defined!
+Redux files:
+homey_options -> /home/275369.cloudwaysapps.com/nmwynyemhy/public_html/wp-content/plugins/homey-core/demos/homey04/redux.json 
+
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - Search - Imported
+
+Page Sidebar : 
+
+Navigation Menu - Company - Imported
+Navigation Menu - Help - Imported
+Navigation Menu - Company - Imported
+Navigation Menu - Help - Imported
+
+Listings Sidebar : 
+
+Homey: Listing list - Featured - Imported
+Homey: Taxonomies Cards - Explore - Imported
+Homey: Listing Card - Slider - Imported
+Homey: Reviews - Latest Reviews - Imported
+Homey: Latest Posts - Latest Posts - Imported
+Homey: Image Banner 300x250 - No Title - Imported
+
+Blog Sidebar : 
+
+Homey: Latest Posts - Latest Posts - Imported
+Search - Search - Imported
+Homey: Latest Comments - Latest Comments - Imported
+Homey: Image Banner 300x250 - Image Ad - Imported
+
+Footer Area 1 : 
+
+Homey: About Site - No Title - Imported
+
+Footer Area 2 : 
+
+Homey: Taxonomies List - Explore - Imported
+
+Footer Area 3 : 
+
+Mailchimp Sign-Up Form - Newsletter Sign Up - Imported
+Navigation Menu - Company - Imported
+
+Footer Area 4 : 
+
+Homey: Contact Us - Contact Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: homey_options finished successfully!
+
+---pt-ocdi/after_import---
+

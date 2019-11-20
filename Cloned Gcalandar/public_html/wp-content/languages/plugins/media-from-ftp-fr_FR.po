@@ -1,0 +1,760 @@
+# Translation of Plugins - Media from FTP - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Media from FTP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-02 10:19:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Media from FTP - Stable (latest release)\n"
+
+#: req/MediaFromFtpAdmin.php:499
+msgid "https://shop.riverforest-wp.info/donate/"
+msgstr "https://shop.riverforest-wp.info/donate/"
+
+#: plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "Aucun journal des modifications disponible."
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:558
+msgid "Unknown update checker status \"%s\""
+msgstr "État de la vérification de mise à jour inconnu « %s »"
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:552
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Impossible de déterminer si des mises à jour sont disponibles pour %s."
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:550
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Une nouvelle version de l’extension %s est disponible."
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:548
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "L’extension %s est à jour."
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:455
+msgid "More information about %s"
+msgstr "Plus d’informations sur %s"
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr "Afficher les détails"
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr "Vérifier les mises à jour"
+
+#: req/MediaFromFtpAdmin.php:529
+msgid "If something goes wrong, please report the following to the support forum. If you do not want to show the Url or Path,  please hide it part."
+msgstr "Si quelque chose ne fonctionne pas comme prévu, veuillez ouvrir un sujet sur le forum de support. Si vous ne désirez pas révéler une URL ou un chemin, n’hésitez pas à en masquer une partie."
+
+#: req/MediaFromFtpAdmin.php:528
+msgid "Server path status"
+msgstr "État du chemin serveur"
+
+#: req/MediaFromFtpAdmin.php:808
+msgid "extension"
+msgstr "extension"
+
+#: req/MediaFromFtpAdmin.php:808
+msgid "type"
+msgstr "type"
+
+#: req/MediaFromFtpAdmin.php:1859
+msgid "\"%1$s\" is activate. When \"%2$s\", it will be overwritten with \"%1$s\" setting. Please deactivate.(%3$s)"
+msgstr "\"%1$s\" est activé. Lorsque \"%2$s\", il sera écrasé par le réglage \"%1$s\". Veuillez le désactiver. (%3$s)"
+
+#: req/MediaFromFtpAdmin.php:1858
+msgid "Plugins"
+msgstr "Extensions"
+
+#: req/MediaFromFtpAdmin.php:808
+msgid "directory"
+msgstr "répertoire"
+
+#: req/MediaFromFtpAdmin.php:235
+msgid "https://riverforest-wp.info/donate/"
+msgstr "https://riverforest-wp.info/donate/"
+
+#: inc/MediaFromFtp.php:583
+msgid "Search files only for specified directories."
+msgstr "Rechercher des fichiers uniquement dans les répertoires spécifiés."
+
+#: inc/MediaFromFtp.php:575
+msgid "Recursively search files below specified directory."
+msgstr "Rechercher des fichiers de manière récursive dans l’arborescence du répertoire spécifié."
+
+#: inc/MediaFromFtp.php:568
+msgid "Search method of files"
+msgstr "Méthode de recherche de fichiers"
+
+#: req/MediaFromFtpAdmin.php:1400
+msgid "No such file exists! Double check the name and try again."
+msgstr "Il n’existe pas de tel fichier ! Veuillez vérifier le nom avant de relancer une recherche."
+
+#: req/MediaFromFtpAdmin.php:1846
+msgid "\"%1$s\" is checked. This is the default setting for the WordPress Media Library. In this setting, the file is moved to month- and year-based folders. If you do not want to move, please uncheck.(%2$s,%3$s)"
+msgstr "« %1$s » est coché. C’est le réglage par défaut de la bibliothèque de médias WordPress. Avec ce réglage, le fichier est déplacé dans des dossiers classés en années et mois. Si vous ne voulez pas le déplacer, veuillez le décocher (%2$s,%3$s)"
+
+#: req/MediaFromFtpAdmin.php:1842
+msgid "Media Settings"
+msgstr "Réglages des médias"
+
+#: req/MediaFromFtpAdmin.php:1490
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-cli/"
+msgstr "https://shop.riverforest-wp.info/media-from-ftp-add-on-cli/"
+
+#: req/MediaFromFtpAdmin.php:1472
+msgid "This add-on can use \"Media from FTP\" on the command-line."
+msgstr "Ce module permet l’utilisation de Media from FTP via une ligne de commande."
+
+#: req/MediaFromFtpAdmin.php:1574
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-exif/"
+msgstr "https://shop.riverforest-wp.info/media-from-ftp-add-on-exif/"
+
+#: req/MediaFromFtpAdmin.php:1556
+msgid "Sort each Exif data to an arbitrary position and insert it into the caption as text."
+msgstr "Recherche toutes les données Exif quelles que soient leur position et les insère dans la légende sous forme de texte."
+
+#: req/MediaFromFtpAdmin.php:1554
+msgid "This Add-on When registering by \"Media from FTP\", add Exif to Media Library Caption."
+msgstr "Ce module ajoute le contenu des données Exif dans le champ légende des images chargées dans la bibliothèque des médias via Media from FTP."
+
+#: req/MediaFromFtpAdmin.php:735 req/MediaFromFtpAdmin.php:761
+#: req/MediaFromFtpAdmin.php:781
+msgid "This function requires %1$s."
+msgstr "Cette fonctionnalité nécessite %1$s."
+
+#: req/MediaFromFtpAdmin.php:1518
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-wpcron/"
+msgstr "https://shop.riverforest-wp.info/media-from-ftp-add-on-wpcron/"
+
+#: req/MediaFromFtpAdmin.php:1545
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-category/"
+msgstr "https://shop.riverforest-wp.info/media-from-ftp-add-on-category/"
+
+#: req/MediaFromFtpAdmin.php:1474
+msgid "The execution of the command line is supported.(lib/mediafromftpcmd.php)"
+msgstr "L’exécution à partir d’une ligne de commande est supportée.(lib/mediafromftpcmd.php)"
+
+#: req/MediaFromFtpAdmin.php:1502
+msgid "Can add intervals of schedule."
+msgstr "Peut ajouter des intervalles de programmation."
+
+#: req/MediaFromFtpAdmin.php:1501
+msgid "Can start multiple Cron Events with multiple settings."
+msgstr "Peut ajoutes de multiples tâches cron avec des réglages variés."
+
+#: req/MediaFromFtpAdmin.php:1499
+msgid "This add-on can register and execute Cron Event with multiple settings by \"Media from FTP\"."
+msgstr "Ce module peut enregistrer et exécuter de multiples tâches cron avec des réglages variés dans Media from FTP."
+
+#: req/MediaFromFtpAdmin.php:842
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, the search times out&#40;%2$s, %3$s&#41;."
+msgstr "Le temps d’exécution sur ce serveur est fixé à %1$s. Si cette durée est dépassée la recherche s’arrêtera automatiquement (%2$s, %3$s)."
+
+#: req/MediaFromFtpAdmin.php:726
+msgid "Cron Event"
+msgstr "Tâche cron"
+
+#: req/MediaFromFtpAdmin.php:285
+msgid "You can check whether it is installed or activated."
+msgstr "Vous pouvez vérifier si c’est bien installé ou activé."
+
+#: req/MediaFromFtpAdmin.php:284
+msgid "This page shows paid add-ons and their summaries."
+msgstr "Cette page présente les modules payants et leur résumé."
+
+#: req/MediaFromFtpAdmin.php:1490 req/MediaFromFtpAdmin.php:1518
+#: req/MediaFromFtpAdmin.php:1545 req/MediaFromFtpAdmin.php:1574
+msgid "BUY"
+msgstr "Acheter"
+
+#: req/MediaFromFtpAdmin.php:1484 req/MediaFromFtpAdmin.php:1512
+#: req/MediaFromFtpAdmin.php:1539 req/MediaFromFtpAdmin.php:1568
+msgid "Deactivated"
+msgstr "Désactivé"
+
+#: req/MediaFromFtpAdmin.php:1482 req/MediaFromFtpAdmin.php:1510
+#: req/MediaFromFtpAdmin.php:1537 req/MediaFromFtpAdmin.php:1566
+msgid "Activated"
+msgstr "Activé"
+
+#: req/MediaFromFtpAdmin.php:1480 req/MediaFromFtpAdmin.php:1508
+#: req/MediaFromFtpAdmin.php:1535 req/MediaFromFtpAdmin.php:1564
+msgid "Installed"
+msgstr "Installé"
+
+#: req/MediaFromFtpAdmin.php:1529
+msgid "Works with next plugin."
+msgstr "Fonctionne avec la prochaine extension."
+
+#: req/MediaFromFtpAdmin.php:1527
+msgid "This Add-on When registering by \"Media from FTP\", add Category to Media Library."
+msgstr "Ce module dédié à Media from FTP ajoute les catégories à la bibliothèque de médias."
+
+#: req/MediaFromFtpAdmin.php:121 req/MediaFromFtpAdmin.php:178
+#: req/MediaFromFtpAdmin.php:179 req/MediaFromFtpAdmin.php:448
+#: req/MediaFromFtpAdmin.php:647 req/MediaFromFtpAdmin.php:734
+#: req/MediaFromFtpAdmin.php:760 req/MediaFromFtpAdmin.php:780
+#: req/MediaFromFtpAdmin.php:979 req/MediaFromFtpAdmin.php:1066
+#: req/MediaFromFtpAdmin.php:1137 req/MediaFromFtpAdmin.php:1374
+#: req/MediaFromFtpAdmin.php:1455
+msgid "Add-Ons"
+msgstr "Modules"
+
+#: req/MediaFromFtpAdmin.php:748
+msgid "Specify categories to register at the same time when registering."
+msgstr "Précisez les catégories à enregistrer au moment de l’enregistrement."
+
+#: req/MediaFromFtpAdmin.php:746 req/MediaFromFtpAdmin.php:1202
+#: req/MediaFromFtpAdmin.php:1215 req/MediaFromFtpAdmin.php:1228
+#: req/MediaFromFtpAdmin.php:1271 req/MediaFromFtpAdmin.php:1274
+#: req/MediaFromFtpAdmin.php:1277 req/MediaFromFtpListTable.php:205
+#: req/MediaFromFtpListTable.php:206 req/MediaFromFtpListTable.php:207
+msgid "Categories"
+msgstr "Catégories"
+
+#: req/MediaFromFtpAdmin.php:1021
+msgid "Bulk Change"
+msgstr "Changement en masse"
+
+#: req/MediaFromFtpAdmin.php:685
+msgid "Update to use of fixed the date/time."
+msgstr "Mettre à jour avec une date et une heure choisie."
+
+#: req/MediaFromFtpAdmin.php:708
+msgid "Plugin"
+msgstr "Extension"
+
+#: req/MediaFromFtpAdmin.php:709
+msgid "Date and time input assistance"
+msgstr "Assistance de saisie de la date et de l’heure"
+
+#: req/MediaFromFtpAdmin.php:826
+msgid "If you can not search because there are too many files, please reduce this number."
+msgstr "Si vous ne pouvez pas effectuer la recherche parce qu’il y a trop de fichiers, réduisez ce nombre."
+
+#: req/MediaFromFtpAdmin.php:824
+msgid "Limit number of search files"
+msgstr "Nombre limite de fichiers recherchés"
+
+#: req/MediaFromFtpAdmin.php:235 req/MediaFromFtpAdmin.php:515
+msgid "Donate to this plugin &#187;"
+msgstr "Faire un don pour cette extension &#187;"
+
+#: req/MediaFromFtpAdmin.php:233 req/MediaFromFtpAdmin.php:508
+msgid "Translations for %s"
+msgstr "Traductions de %s"
+
+#: req/MediaFromFtpAdmin.php:1120
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, times out. Please run the frequently \"Delete log\" and \"Export to CSV\" so as not to exceed this limit."
+msgstr "Le temps d’exécution sur ce serveur est fixé à %1$s. Si cette limite est dépassée, l’opération est interrompue. Veuillez lancer régulièrement les tâches « Supprimer le journal » et « Exporter au format CSV » afin de ne pas dépasser cette limite."
+
+#: req/MediaFromFtpAdmin.php:961
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, times out&#40;%2$s&#41;. Please note the \"Number of items per page\" so as not to exceed this limit."
+msgstr "Le temps d’exécution sur ce serveur est fixé à %1$s. Si cette limite est dépassée, l’opération est interrompue&#40;%2$s&#41;. Veuillez noter le « Nombre d’éléments par page » afin de ne pas dépasser cette limite. "
+
+#: req/MediaFromFtpAdmin.php:291
+msgid "Overview"
+msgstr "Aperçu"
+
+#: req/MediaFromFtpAdmin.php:277
+msgid "You can export to CSV format."
+msgstr "Vous pouvez exporter au format CSV."
+
+#: req/MediaFromFtpAdmin.php:276
+msgid "Display history of registration."
+msgstr "Affiche l’historique d’enregistrement."
+
+#: req/MediaFromFtpAdmin.php:263
+msgid "\"%1$s\" sets other options."
+msgstr "\"%1$s\" définit les autres options."
+
+#: req/MediaFromFtpAdmin.php:262
+msgid "\"%1$s\" sets options for %2$s registration."
+msgstr "\"%1$s\" sdéfinit les options pour l’enregistrement %2$s."
+
+#: req/MediaFromFtpAdmin.php:259
+msgid "Screen Options"
+msgstr "Options d’écran"
+
+#: req/MediaFromFtpAdmin.php:259
+msgid "Options for searching can be specified with \"%1$s\"."
+msgstr "Les options de recherche peuvent être spécifiées avec « %1$s »."
+
+#: req/MediaFromFtpAdmin.php:258
+msgid "Please check and press the \"%1$s\" button."
+msgstr "Veuillez cocher et cliquer sur le boutton « %1$s »."
+
+#: req/MediaFromFtpAdmin.php:257
+msgid "Search the upload directory(%1$s) and display files that do not exist in the media library."
+msgstr "Recherche dans le répertoire de mise en ligne (%1$s) et affiche les fichiers qui n’existent pas dans la bibliothèque de médias."
+
+#: req/MediaFromFtpAdmin.php:230 req/MediaFromFtpAdmin.php:505
+msgid "FAQ"
+msgstr "FAQ"
+
+#: req/MediaFromFtpAdmin.php:229
+msgid "For more information:"
+msgstr "Pour plus d’informations :"
+
+#: req/MediaFromFtpAdmin.php:263 req/MediaFromFtpAdmin.php:655
+msgid "Other"
+msgstr "Autre"
+
+#: req/MediaFromFtpAdmin.php:262 req/MediaFromFtpAdmin.php:653
+msgid "Register"
+msgstr "Enregistrer"
+
+#: inc/MediaFromFtp.php:534
+msgid "Pagination"
+msgstr "Pagination"
+
+#: req/MediaFromFtpAdmin.php:848
+msgid "It does not matter on the registration screen."
+msgstr " Peu importe l’inscription."
+
+#: req/MediaFromFtpAdmin.php:847
+msgid "This is to suppress the timeout when retrieving a large amount of data when displaying the search screen and log screen."
+msgstr "Ceci est destiné à éviter le délai d’attente lors de la récupération d’un volume important de données au moment de l’affichage des écrans de résultat de recherche et du journal."
+
+#: req/MediaFromFtpAdmin.php:1413
+msgid "Ready to import. Press the following button to start the import."
+msgstr "Prêt à importer. Cliquez sur le bouton suivant pour démarrer l’importation."
+
+#: req/MediaFromFtpAdmin.php:1391
+msgid "Assign Authors"
+msgstr "Assigner les auteurs."
+
+#: inc/MediaFromFtp.php:1382
+msgid "Assign posts to %1$s"
+msgstr "Assigner les articles à %1$s"
+
+#: inc/MediaFromFtp.php:1375
+msgid "If not selected, assign posts to %1$s."
+msgstr "Si pas sélectionné, assigner les articles à %1$s."
+
+#: inc/MediaFromFtp.php:1366
+msgid "Assign posts to an existing user:"
+msgstr "Assigner les articles à un utilisateur existant :"
+
+#: inc/MediaFromFtp.php:1365 inc/MediaFromFtp.php:1380
+msgid "Import author:"
+msgstr "Importer l’auteur :"
+
+#: req/MediaFromFtpAjax.php:223
+msgid "Media"
+msgstr "Média"
+
+#: req/MediaFromFtpAdmin.php:1407 req/MediaFromFtpAdmin.php:1428
+msgid "File Load"
+msgstr "Chargement de fichier"
+
+#: req/MediaFromFtpAdmin.php:280
+msgid "To Import the files to Media Library from a WordPress export file."
+msgstr "Pour importer les fichiers dans la bibliothèque à partir d’un export WordPress."
+
+#: req/MediaFromFtpAjax.php:263
+msgid "Succeeded to the registration of %1$d files and %2$d items for MediaLibrary."
+msgstr "L’enregistrement de %1$d fichiers et %2$d objets dans la bibliothèque de médias a été couronné de succès."
+
+#: req/MediaFromFtpAjax.php:229
+msgid "No file!"
+msgstr "Aucun fichier !"
+
+#: req/MediaFromFtpAdmin.php:1404 req/MediaFromFtpAdmin.php:1425
+msgid "Select File"
+msgstr "Sélectionnez un fichier"
+
+#: req/MediaFromFtpAdmin.php:281
+msgid "In uploads directory(%1$s), that you need to copy the file to the same state as the import source by FTP."
+msgstr "Vous devez copier dans le répertoire \"uploads\" (%1$s) le fichier dans le même état que la source d’importation par FTP."
+
+#: req/MediaFromFtpAdmin.php:120 req/MediaFromFtpAdmin.php:170
+#: req/MediaFromFtpAdmin.php:171 req/MediaFromFtpAdmin.php:447
+#: req/MediaFromFtpAdmin.php:646 req/MediaFromFtpAdmin.php:978
+#: req/MediaFromFtpAdmin.php:1065 req/MediaFromFtpAdmin.php:1136
+#: req/MediaFromFtpAdmin.php:1363 req/MediaFromFtpAdmin.php:1415
+#: req/MediaFromFtpAdmin.php:1466
+msgid "Import"
+msgstr "Import"
+
+#: req/MediaFromFtpAjax.php:173
+msgid "Succeeded to the registration of %1$d files."
+msgstr "Enregistrement de %1$d fichiers réussi."
+
+#: req/MediaFromFtpAjax.php:170 req/MediaFromFtpAjax.php:260
+msgid "Errored to the registration of %1$d files."
+msgstr "Erreur pour l’enregistrement de %1$d fichiers."
+
+#: req/MediaFromFtpAjax.php:130
+msgid "This file could not be registered in the database."
+msgstr "Ce fichier n’a pas pu être enregistré dans la base de données."
+
+#: inc/MediaFromFtp.php:555
+msgid "Unusual selection. Only the file name and output. It is suitable for the search of large amounts of data. It is hi speed."
+msgstr "Sélection alternative. Uniquement le nom de fichier et le résultat. Elle est adaptée à une recherche d’une importante masse de données. Elle est ultra rapide. "
+
+#: inc/MediaFromFtp.php:547
+msgid "Usual selection. It is user-friendly. It displays a thumbnail and metadata. It is low speed."
+msgstr "Sélection normale. Elle est conviviale et affiche miniature et métadonnées. Elle est lente."
+
+#: inc/MediaFromFtp.php:540
+msgid "Display of search results"
+msgstr "Affichage des résultats de recherche."
+
+#: req/MediaFromFtpAdmin.php:840 req/MediaFromFtpAdmin.php:958
+#: req/MediaFromFtpAdmin.php:1118
+msgid "seconds"
+msgstr "secondes"
+
+#: inc/MediaFromFtp.php:603
+msgid "Unusual selection. if you want to search for filename that contains such -0x0. It is low speed."
+msgstr "Sélection non usuelle. Si vous voulez rechercher les noms de fichiers qui contiennent des choses telles que -0x0. Vitesse lente."
+
+#: inc/MediaFromFtp.php:595
+msgid "Usual selection. It is hi speed."
+msgstr "Sélection usuelle. Extrêmement rapide."
+
+#: inc/MediaFromFtp.php:588
+msgid "Search method for the exclusion of the thumbnail"
+msgstr "Méthode de recherche pour l’exclusion de la miniature"
+
+#: req/MediaFromFtpAdmin.php:1338
+msgid "There is no log."
+msgstr "Il n’y a aucun journal."
+
+#: req/MediaFromFtpAdmin.php:1323
+msgid "Download CSV"
+msgstr "Télécharger CSV"
+
+#: req/MediaFromFtpAdmin.php:1313
+msgid "Export to CSV"
+msgstr "Exporter au format CSV"
+
+#: req/MediaFromFtpAdmin.php:1306
+msgid "Delete log"
+msgstr "Supprimer le journal"
+
+#: req/MediaFromFtpAdmin.php:1189 req/MediaFromFtpAdmin.php:1268
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: req/MediaFromFtpAdmin.php:1249 req/MediaFromFtpAdmin.php:1266
+msgid "Author"
+msgstr "Auteur"
+
+#: req/MediaFromFtpAdmin.php:1161
+msgid "%1$s do not have a possible deletion log."
+msgstr "%1$s n’a pas d’entrée de journal susceptible d’être supprimée."
+
+#: req/MediaFromFtpAdmin.php:1159
+msgid "%1$s of the log has been deleted %2$d."
+msgstr "%1$s des entrées du journal ont été supprimées %2$d."
+
+#: req/MediaFromFtpAdmin.php:1155
+msgid "Removed all of the log."
+msgstr "Le journal a été vidé."
+
+#: req/MediaFromFtpAdmin.php:1113
+msgid "Current, log is not created. If you want to create a log, please put a check in the [Create log] in the settings."
+msgstr "Pour le moment, le journal n’a pas été créé. Si vous voulez créer un journal, veuillez cocher [Créer un journal ] dans les réglages."
+
+#: req/MediaFromFtpAdmin.php:721
+msgid "Create log"
+msgstr "Créer un journal"
+
+#: req/MediaFromFtpAdmin.php:717
+msgid "Record the registration result."
+msgstr "Conserver le résultat de l’enregistrement."
+
+#: req/MediaFromFtpAdmin.php:119 req/MediaFromFtpAdmin.php:162
+#: req/MediaFromFtpAdmin.php:163 req/MediaFromFtpAdmin.php:446
+#: req/MediaFromFtpAdmin.php:645 req/MediaFromFtpAdmin.php:715
+#: req/MediaFromFtpAdmin.php:842 req/MediaFromFtpAdmin.php:977
+#: req/MediaFromFtpAdmin.php:1064 req/MediaFromFtpAdmin.php:1126
+#: req/MediaFromFtpAdmin.php:1373 req/MediaFromFtpAdmin.php:1465
+msgid "Log"
+msgstr "Journal"
+
+#: inc/MediaFromFtp.php:1041
+msgid "Could not retrieve."
+msgstr "Récupération impossible."
+
+#: req/MediaFromFtpAdmin.php:866
+msgid "If you do not use the filename or directory name of %1$s, please choose \"%2$s\"."
+msgstr "Si vous n’utilisez pas le nom de fichier ou le nom de répertoire de %1$s, veuillez choisir « %2$s »."
+
+#: req/MediaFromFtpAdmin.php:865
+msgid "variable-width encoding"
+msgstr "encodage des caractères"
+
+#: req/MediaFromFtpAdmin.php:865
+msgid "https://en.wikipedia.org/wiki/Variable-width_encoding"
+msgstr "https://en.wikipedia.org/wiki/Variable-width_encoding"
+
+#: req/MediaFromFtpAdmin.php:230
+msgid "https://wordpress.org/plugins/media-from-ftp/faq"
+msgstr "https://wordpress.org/plugins/media-from-ftp/faq"
+
+#. Author URI of the plugin/theme
+msgid "https://riverforest-wp.info/"
+msgstr "http://riverforest-wp.info/"
+
+#. Author of the plugin/theme
+msgid "Katsushi Kawamori"
+msgstr "Katsushi Kawamori"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/media-from-ftp/"
+msgstr "http://wordpress.org/plugins/media-from-ftp/"
+
+#. Plugin Name of the plugin/theme
+msgid "Media from FTP"
+msgstr "Media from FTP"
+
+#: req/MediaFromFtpAdmin.php:1743
+msgid "No Thumbnails Cache"
+msgstr "Aucun cache pour les miniatures"
+
+#: req/MediaFromFtpAdmin.php:1741
+msgid "Delete"
+msgstr "Supprimer"
+
+#: req/MediaFromFtpAdmin.php:1741
+msgid "Thumbnails Cache"
+msgstr "Cache des miniatures"
+
+#: req/MediaFromFtpAdmin.php:1687
+msgid "Changes saved."
+msgstr "Modifications enregistrées."
+
+#: inc/MediaFromFtp.php:1048
+msgid "Images"
+msgstr "Images"
+
+#: inc/MediaFromFtp.php:1039 req/MediaFromFtpAdmin.php:1254
+#: req/MediaFromFtpAdmin.php:1266
+msgid "Date/Time"
+msgstr "Date/heure"
+
+#: inc/MediaFromFtp.php:1034 req/MediaFromFtpAdmin.php:1251
+#: req/MediaFromFtpAdmin.php:1266
+msgid "Permalink:"
+msgstr "Permalien :"
+
+#: inc/MediaFromFtp.php:1033 req/MediaFromFtpAdmin.php:1250
+#: req/MediaFromFtpAdmin.php:1266 req/MediaFromFtpAjax.php:130
+msgid "Title"
+msgstr "Titre :"
+
+#: req/MediaFromFtpAjax.php:128
+msgid "<div>You need to make this directory writable before you can register this file. See <a href=\"%1$s\" target=\"_blank\">the Codex</a> for more information.</div><div>Or, filename or directoryname must be changed of illegal. Please change Character Encodings for Server of <a href=\"%2$s\">Settings</a>.</div>"
+msgstr "<div>Vous devez autoriser l’écriture pour ce répertoire avant de pouvoir enregistrer ce fichier. Veuillez vous référer au <a href=\"%1$s\" target=\"_blank\">Codex</a> pour plus d’informations.</div><div>Ou alors le nom du fichier ou du répertoire n’est pas autorisé et doit être modifié. Veuillez changer l’encodage des caractères du serveur au niveau des <a href=\"%2$s\">réglages</a>.</div>"
+
+#: req/MediaFromFtpAjax.php:128
+msgid "Directory name:"
+msgstr "Nom du répertoire :"
+
+#: inc/MediaFromFtp.php:1037 req/MediaFromFtpAdmin.php:1253
+#: req/MediaFromFtpAdmin.php:1266 req/MediaFromFtpAjax.php:128
+msgid "File name:"
+msgstr "Nom du fichier :"
+
+#: req/MediaFromFtpAdmin.php:262
+msgid "Media Library"
+msgstr "Bibliothèque des médias"
+
+#: req/MediaFromFtpListTable.php:204
+msgid "Edit date and time"
+msgstr "Modifier la date et l’heure"
+
+#: inc/MediaFromFtp.php:508 inc/MediaFromFtp.php:1061
+#: req/MediaFromFtpAdmin.php:1261 req/MediaFromFtpAdmin.php:1266
+msgid "Length:"
+msgstr "Longueur :"
+
+#: inc/MediaFromFtp.php:506 inc/MediaFromFtp.php:1046
+#: req/MediaFromFtpAdmin.php:1256 req/MediaFromFtpAdmin.php:1266
+msgid "File size:"
+msgstr "Taille du fichier :"
+
+#: req/MediaFromFtpAjax.php:226
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: inc/MediaFromFtp.php:1367
+msgid "Select"
+msgstr "Sélectionner"
+
+#: req/MediaFromFtpAdmin.php:258 req/MediaFromFtpAdmin.php:989
+#: req/MediaFromFtpAdmin.php:1852
+msgid "Update Media"
+msgstr "Mettre à jour le fichier"
+
+#: inc/MediaFromFtp.php:751
+msgid "Filter"
+msgstr "Filtre"
+
+#: inc/MediaFromFtp.php:693
+msgid "All extensions"
+msgstr "Toutes les extensions"
+
+#: inc/MediaFromFtp.php:661
+msgid "All types"
+msgstr "Tous les types"
+
+#: inc/MediaFromFtp.php:738 inc/MediaFromFtp.php:744
+#: req/MediaFromFtpAdmin.php:654 req/MediaFromFtpAdmin.php:808
+#: req/MediaFromFtpAdmin.php:842 req/MediaFromFtpAdmin.php:961
+msgid "Search"
+msgstr "Rechercher"
+
+#: inc/MediaFromFtp.php:505 inc/MediaFromFtp.php:1045
+#: req/MediaFromFtpAdmin.php:1255 req/MediaFromFtpAdmin.php:1266
+msgid "File type:"
+msgstr "Type du fichier :"
+
+#: req/MediaFromFtpAdmin.php:796 req/MediaFromFtpAdmin.php:814
+#: req/MediaFromFtpAdmin.php:918
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: req/MediaFromFtpAdmin.php:904
+msgid "Remove the cache of thumbnail used in the search screen. Please try out if trouble occurs in the search screen. It might become normal."
+msgstr "Videz le cache des miniatures utilisé dans l’écran de recherche. Veuillez essayer en cas de problème dans l’écran de recherche. Cela pourrait aider pour un retour à la normale."
+
+#: req/MediaFromFtpAdmin.php:902 req/MediaFromFtpAdmin.php:910
+msgid "Remove Thumbnails Cache"
+msgstr "Vider le cache des miniatures"
+
+#: inc/MediaFromFtp.php:535
+msgid "Number of items per page:"
+msgstr "Nombre d’éléments par page :"
+
+#: req/MediaFromFtpAdmin.php:728
+msgid "Set the schedule."
+msgstr "Définissez la programmation."
+
+#: req/MediaFromFtpAdmin.php:726
+msgid "Schedule"
+msgstr "Programmation"
+
+#: inc/MediaFromFtp.php:562
+msgid "Regular expression is possible."
+msgstr "Les expressions régulières sont possibles."
+
+#: inc/MediaFromFtp.php:560
+msgid "Exclude file"
+msgstr "Exclure un fichier"
+
+#: req/MediaFromFtpAdmin.php:1241 req/MediaFromFtpAdmin.php:1280
+#: req/MediaFromFtpListTable.php:207
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/MediaFromFtp.php:1386 req/MediaFromFtpAdmin.php:199
+msgid "Apply"
+msgstr "Appliquer"
+
+#: req/MediaFromFtpAdmin.php:774
+msgid "Register the Exif data to the caption."
+msgstr "Enregistrer les données Exif dans la légende."
+
+#: inc/MediaFromFtp.php:1057 req/MediaFromFtpAdmin.php:772
+#: req/MediaFromFtpAdmin.php:1258 req/MediaFromFtpAdmin.php:1266
+msgid "Caption"
+msgstr "légende"
+
+#: req/MediaFromFtpAdmin.php:702 req/MediaFromFtpAdmin.php:1840
+msgid "Organize my uploads into month- and year-based folders"
+msgstr "Organiser mes fichiers envoyés dans des dossiers mensuels et annuels"
+
+#: req/MediaFromFtpAdmin.php:680
+msgid "Get by priority if there is date and time of the Exif information."
+msgstr " Donner la priorité à la date et l’heure Exif si elle existe."
+
+#: req/MediaFromFtpAdmin.php:674 req/MediaFromFtpAdmin.php:679
+msgid "Get the date/time of the file, and updated based on it. Change it if necessary."
+msgstr "Récupérer la date et l’heure du fichier et faire une mise à jour basée dessus. Changez ceci si nécessaire."
+
+#: req/MediaFromFtpAdmin.php:670
+msgid "Update to use of the current date/time."
+msgstr "Mettre à jour avec la date et l’heure actuelle."
+
+#: req/MediaFromFtpAdmin.php:667
+msgid "Date"
+msgstr "Date"
+
+#: req/MediaFromFtpAdmin.php:864
+msgid "It may fail to register if you are using a multi-byte name in the file name or folder name. In that case, please change."
+msgstr "L’enregistrement peut échouer si vous utiliser un nom de fichier ou de répertoire multi-octets. Dans ce cas, veuillez corriger cela. "
+
+#: req/MediaFromFtpAdmin.php:862
+msgid "Character Encodings for Server"
+msgstr "Encodage de caractères pour le serveur"
+
+#: req/MediaFromFtpAdmin.php:846
+msgid "The max_execution_time value defined in the php.ini."
+msgstr "Valeur de max_execution_time définie dans le php.ini. "
+
+#: req/MediaFromFtpAdmin.php:846
+msgid "The number of seconds a script is allowed to run."
+msgstr "La durée en secondes autorisée pour l’exécution d’un script. "
+
+#: req/MediaFromFtpAdmin.php:835
+msgid "Execution time"
+msgstr "Temps d’exécution"
+
+#: req/MediaFromFtpAdmin.php:513
+msgid "Please make a donation if you like my work or would like to further the development of this plugin."
+msgstr "Veuillez faire un don si vous aimez mon travail ou désirez soutenir la suite du développement de cette extension."
+
+#: req/MediaFromFtpAdmin.php:232 req/MediaFromFtpAdmin.php:505
+msgid "Reviews"
+msgstr "Avis"
+
+#: req/MediaFromFtpAdmin.php:231 req/MediaFromFtpAdmin.php:505
+msgid "Support Forums"
+msgstr "Forum d’assistance"
+
+#. #-#-#-#-#  media-from-ftp-code.pot (Media from FTP 10.10)  #-#-#-#-#
+#. Description of the plugin/theme
+#: req/MediaFromFtpAdmin.php:452
+msgid "Register to media library from files that have been uploaded by FTP."
+msgstr "Enregistrer vers la bibliothèque de médias les fichiers qui ont été mis en ligne par FTP."
+
+#: req/MediaFromFtpAdmin.php:491
+msgid "Version:"
+msgstr "Version :"
+
+#: req/MediaFromFtpAdmin.php:429 req/MediaFromFtpAdmin.php:563
+#: req/MediaFromFtpAdmin.php:944 req/MediaFromFtpAdmin.php:1048
+#: req/MediaFromFtpAdmin.php:1108 req/MediaFromFtpAdmin.php:1356
+#: req/MediaFromFtpAdmin.php:1447
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n’avez pas les droits suffisants pour accéder à cette page."
+
+#: req/MediaFromFtpAdmin.php:112 req/MediaFromFtpAdmin.php:141
+#: req/MediaFromFtpAdmin.php:142 req/MediaFromFtpAdmin.php:437
+#: req/MediaFromFtpAdmin.php:639 req/MediaFromFtpAdmin.php:967
+#: req/MediaFromFtpAdmin.php:1062 req/MediaFromFtpAdmin.php:1127
+#: req/MediaFromFtpAdmin.php:1364 req/MediaFromFtpAdmin.php:1456
+msgid "Search & Register"
+msgstr "Rechercher & enregistrer"
+
+#: req/MediaFromFtpAdmin.php:113 req/MediaFromFtpAdmin.php:149
+#: req/MediaFromFtpAdmin.php:150 req/MediaFromFtpAdmin.php:438
+#: req/MediaFromFtpAdmin.php:638 req/MediaFromFtpAdmin.php:968
+#: req/MediaFromFtpAdmin.php:1063 req/MediaFromFtpAdmin.php:1128
+#: req/MediaFromFtpAdmin.php:1365 req/MediaFromFtpAdmin.php:1457
+#: req/MediaFromFtpAdmin.php:1687 req/MediaFromFtpAdmin.php:1844
+msgid "Settings"
+msgstr "Réglages"
