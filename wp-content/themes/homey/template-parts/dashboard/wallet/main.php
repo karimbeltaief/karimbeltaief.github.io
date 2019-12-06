@@ -31,7 +31,7 @@ $total_earnings = homey_get_host_total_earnings($userID);
                     }
                     ?>
                 </div>
-                <h3><?php esc_html_e('Total Earnings', 'homey'); ?> <span class="wallet-label"><?php esc_html_e('Host Fee:', 'homey'); ?> <?php homey_host_fee_percent(); ?>%</span></h3>
+                <h3><?php esc_html_e('Total des gains', 'homey'); ?> <span class="wallet-label"><?php esc_html_e('Host Fee:', 'homey'); ?> <?php homey_host_fee_percent(); ?>%</span></h3>
                 <div class="wallet-box-info"><?php esc_html_e('Excluding the service fee, the host fee and the security deposit', 'homey'); ?></div>
 
                 <?php if(empty($host_id) && homey_is_host()) { ?>
